@@ -1,0 +1,16 @@
+E:\vs_projects\Life_Game\bin\Debug\net7.0-windows\Life_Game.exe
+E:\vs_projects\Life_Game\bin\Debug\net7.0-windows\Life_Game.deps.json
+E:\vs_projects\Life_Game\bin\Debug\net7.0-windows\Life_Game.runtimeconfig.json
+E:\vs_projects\Life_Game\bin\Debug\net7.0-windows\Life_Game.dll
+E:\vs_projects\Life_Game\bin\Debug\net7.0-windows\Life_Game.pdb
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\Life_Game.csproj.GenerateResource.cache
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\Life_Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\Life_Game.AssemblyInfoInputs.cache
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\Life_Game.AssemblyInfo.cs
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\Life_Game.csproj.CoreCompileInputs.cache
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\Life_Game.dll
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\refint\Life_Game.dll
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\Life_Game.pdb
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\Life_Game.genruntimeconfig.cache
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\ref\Life_Game.dll
+E:\vs_projects\Life_Game\obj\Debug\net7.0-windows\Life_Game.LifeGame.resources
